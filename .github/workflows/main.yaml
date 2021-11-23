@@ -28,6 +28,8 @@ jobs:
       - name: Install Surge
         run: npm install -g surge
       - name: Run Surge
-        run: surge ./ bootcampnewapp.surge.sh
+        run: surge ./ bootcamp2020_class1_ali.surge.sh
       
       
+
+
